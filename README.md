@@ -44,10 +44,6 @@ I'm a passionate software developer with a strong focus on **Java development** 
 - **Predictive Analytics Tool**: Machine learning models for business insights
 - **Computer Vision App**: Image recognition and classification system
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-manoj-kumar&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects, especially those involving Java development or AI innovation. Feel free to reach out if you'd like to work together or just chat about technology!
